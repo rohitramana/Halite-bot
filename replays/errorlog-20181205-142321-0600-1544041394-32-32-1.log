@@ -1,0 +1,27 @@
+
+Turn 7
+================================================================
+warning: owned entities 1, 2 collided on cell (22, 16) as the result of moves on this turn
+At command 2 of 3:
+    1   m 2 o
+>>> 2   m 1 w
+    3   m 3 o
+
+
+Turn 10
+================================================================
+warning: entity 4 was directed to use 9 halite to move east, but only 0 halite was available
+At command 2 of 3:
+    1   m 3 o
+>>> 2   m 4 e
+    3   g
+
+
+Turn 12
+================================================================
+warning: owned entities 4, 5 collided on cell (23, 15) as the result of moves on this turn
+At command 2 of 3:
+    1   m 3 w
+>>> 2   m 4 n
+    3   m 5 o
+

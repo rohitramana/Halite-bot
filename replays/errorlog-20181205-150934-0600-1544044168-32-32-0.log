@@ -1,0 +1,18 @@
+
+Turn 2
+================================================================
+error: failed to decode bot message: "(" (at position 1)
+Last input received was:
+(0, -1)
+None
+Traceback (most recent call last):
+  File "MyBot.py", line 14, in <module>
+    bot.run()
+  File "D:\CNN project\SVM\SVMBot.py", line 84, in run
+    command_queue.append(ship.move(game_map._naive_navigate(ship.position, di)))
+  File "D:\CNN project\SVM\hlt\__init__.py", line 76, in move
+    raw_direction = Direction.convert(direction)
+  File "D:\CNN project\SVM\hlt\positionals.py", line 42, in convert
+    raise IndexError
+IndexError
+

@@ -1,0 +1,18 @@
+
+Turn 2
+================================================================
+error: failed to decode bot message: "T" (at position 1)
+Last input received was:
+Traceback (most recent call last):
+  File "MyBot.py", line 14, in <module>
+    bot.run()
+  File "D:\CNN project\SVM\SVMBot.py", line 84, in run
+    command_queue.append(ship.move(game_map._naive_navigate(ship, di)))
+  File "D:\CNN project\SVM\hlt\__init__.py", line 417, in _naive_navigate
+    for direction in self.get_unsafe_moves(source, destination):
+  File "D:\CNN project\SVM\hlt\__init__.py", line 355, in get_unsafe_moves
+    distance = abs(destination - source)
+  File "D:\CNN project\SVM\hlt\positionals.py", line 87, in __sub__
+    return Position(self.x - other.x, self.y - other.y)
+AttributeError: 'Ship' object has no attribute 'x'
+

@@ -1,0 +1,14 @@
+
+Turn 2
+================================================================
+error: failed to decode bot message: "T" (at position 1)
+Last input received was:
+Traceback (most recent call last):
+  File "MyBot.py", line 14, in <module>
+    bot.run()
+  File "D:\CNN project\SVM\SVMBot.py", line 81, in run
+    game_map[game_map.get_safe_move(game_map[ship.position], game_map[ship.position.directional_offset(di)])].mark_unsafe(ship)
+  File "D:\CNN project\SVM\hlt\positionals.py", line 75, in directional_offset
+    return self + Position(*direction)
+TypeError: type object argument after * must be an iterable, not Position
+

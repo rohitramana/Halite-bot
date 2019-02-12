@@ -1,0 +1,13 @@
+
+Turn 1
+================================================================
+error: communication error with bot: Problem writing to pipe, errno was: 0 (No error)
+Last input received was:
+
+  File "MyBot.py", line 3, in <module>
+    import SVMBot
+  File "D:\CNN project\SVM\SVMBot.py", line 69
+    for di in ship.position.get_surrounding_cardinals():
+                                                       ^
+IndentationError: unindent does not match any outer indentation level
+

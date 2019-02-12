@@ -1,0 +1,30 @@
+
+Turn 2
+================================================================
+error: entity 0 received 5 commands on this turn, but only one is permitted
+At command 2 of 5:
+    1   m 0 n
+>>> 2   m 0 s
+    3   m 0 e
+    4   m 0 w
+
+The other commands issued to this entity:
+>>> 1   m 0 n
+    2   m 0 s
+    3   m 0 e
+
+    1   m 0 n
+    2   m 0 s
+>>> 3   m 0 e
+    4   m 0 w
+    5   m 0 n
+
+    2   m 0 s
+    3   m 0 e
+>>> 4   m 0 w
+    5   m 0 n
+
+    3   m 0 e
+    4   m 0 w
+>>> 5   m 0 n
+

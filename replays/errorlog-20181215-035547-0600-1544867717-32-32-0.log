@@ -1,0 +1,114 @@
+
+Turn 387
+================================================================
+warning: entity 10 was directed to use 3 halite to move north, but only 0 halite was available
+At command 1 of 9:
+>>> 1   m 10 n
+    2   m 8 w
+    3   m 7 e
+
+warning: entity 6 was directed to use 9 halite to move south, but only 4 halite was available
+At command 5 of 9:
+    3   m 7 e
+    4   m 12 e
+>>> 5   m 6 s
+    6   m 0 w
+    7   m 9 s
+
+
+Turn 388
+================================================================
+warning: entity 0 was directed to use 2 halite to move west, but only 1 halite was available
+At command 6 of 8:
+    4   m 7 e
+    5   m 12 e
+>>> 6   m 0 w
+    7   m 9 e
+    8   m 11 w
+
+
+Turn 389
+================================================================
+warning: entity 7 was directed to use 6 halite to move east, but only 5 halite was available
+At command 6 of 8:
+    4   m 8 w
+    5   m 6 s
+>>> 6   m 7 e
+    7   m 12 e
+    8   m 11 w
+
+warning: entity 11 was directed to use 6 halite to move west, but only 0 halite was available
+At command 8 of 8:
+    6   m 7 e
+    7   m 12 e
+>>> 8   m 11 w
+
+
+Turn 390
+================================================================
+warning: entity 8 was directed to use 6 halite to move west, but only 0 halite was available
+At command 4 of 7:
+    2   m 11 w
+    3   m 0 w
+>>> 4   m 8 w
+    5   m 9 e
+    6   m 10 n
+
+warning: entity 10 was directed to use 6 halite to move north, but only 3 halite was available
+At command 6 of 7:
+    4   m 8 w
+    5   m 9 e
+>>> 6   m 10 n
+    7   m 12 e
+
+
+Turn 391
+================================================================
+warning: owned entities 0, 11, 13 collided on cell (8, 16) as the result of moves on this turn
+At command 4 of 7:
+    2   m 10 n
+    3   m 7 e
+>>> 4   m 0 w
+    5   m 11 s
+    6   m 9 e
+
+Other commands that placed an entity on this cell:
+    3   m 7 e
+    4   m 0 w
+>>> 5   m 11 s
+    6   m 9 e
+    7   m 12 e
+
+
+Turn 393
+================================================================
+warning: owned entities 6, 12 collided on cell (8, 16) as the result of moves on this turn
+At command 1 of 5:
+>>> 1   m 6 s
+    2   m 8 w
+    3   m 9 s
+
+Other commands that placed an entity on this cell:
+    3   m 9 s
+    4   m 10 n
+>>> 5   m 12 e
+
+
+Turn 395
+================================================================
+warning: owned entities 7, 8, 10 collided on cell (8, 16) as the result of moves on this turn
+At command 1 of 4:
+>>> 1   m 7 e
+    2   m 8 w
+    3   m 9 s
+
+Other commands that placed an entity on this cell:
+    1   m 7 e
+>>> 2   m 8 w
+    3   m 9 s
+    4   m 10 n
+
+    2   m 8 w
+    3   m 9 s
+>>> 4   m 10 n
+

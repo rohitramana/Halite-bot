@@ -1,0 +1,12 @@
+
+Turn 2
+================================================================
+error: failed to decode bot message: "T" (at position 1)
+Last input received was:
+Traceback (most recent call last):
+  File "MyBot.py", line 14, in <module>
+    bot.run()
+  File "D:\CNN project\SVM\SVMBot.py", line 71, in run
+    command_queue.append(ship.move(game_map.get_safe_move(game_map[ship.position], game_map[di])))
+AttributeError: 'GameMap' object has no attribute 'get_safe_move'
+

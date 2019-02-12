@@ -1,0 +1,4 @@
+#!C:\Anaconda\python.exe
+
+from hlt_client import client
+client.main()

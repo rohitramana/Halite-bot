@@ -1,0 +1,2158 @@
+move ==== 0 
+move ==== (0, 0), ship ==== 4, game_round ==== 11, decision ==== 6 
+move ==== 1 
+move ==== (0, 0), ship ==== 4, game_round ==== 12, decision ==== 5 
+move ==== 1 
+move ==== (0, 0), ship ==== 4, game_round ==== 13, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 13, decision ==== 6 
+move ==== 2 
+move ==== (0, 0), ship ==== 4, game_round ==== 14, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 14, decision ==== 5 
+move ==== 2 
+move ==== (0, 0), ship ==== 4, game_round ==== 15, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 15, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 15, decision ==== 6 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 16, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 16, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 16, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 17, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 17, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 17, decision ==== 5 
+move ==== (1, 0), ship ==== 8, game_round ==== 17, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 18, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 18, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 18, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 18, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 19, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 19, decision ==== 5 
+move ==== (-1, 0), ship ==== 7, game_round ==== 19, decision ==== 4 
+move ==== (0, 0), ship ==== 8, game_round ==== 19, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 20, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 20, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 20, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 20, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 21, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 21, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 21, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 21, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 22, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 22, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 22, decision ==== 5 
+move ==== (1, 0), ship ==== 7, game_round ==== 22, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 23, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 23, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 23, decision ==== 5 
+move ==== (1, 0), ship ==== 7, game_round ==== 23, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 24, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 24, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 24, decision ==== 5 
+move ==== (-1, 0), ship ==== 7, game_round ==== 24, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 25, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 25, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 25, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 25, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 26, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 26, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 26, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 26, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 27, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 27, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 27, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 27, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 28, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 28, decision ==== 9 
+move ==== (0, 0), ship ==== 8, game_round ==== 28, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 28, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 29, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 29, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 29, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 29, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 30, decision ==== 5 
+move ==== (0, 0), ship ==== 8, game_round ==== 30, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 30, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 30, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 31, decision ==== 8 
+move ==== None, ship ==== 8, game_round ==== 31, decision ==== 2
+move ==== (0, 0), ship ==== 7, game_round ==== 31, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 31, decision ==== 5 
+move ==== (0, 1), ship ==== 9, game_round ==== 31, decision ==== 7 
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 32, decision ==== 8 
+move ==== (0, 0), ship ==== 7, game_round ==== 32, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 32, decision ==== 5 
+move ==== (0, 1), ship ==== 9, game_round ==== 32, decision ==== 7 
+move ==== (-1, 0), ship ==== 8, game_round ==== 32, decision ==== 1
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 33, decision ==== 8 
+move ==== (0, 0), ship ==== 7, game_round ==== 33, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 33, decision ==== 5 
+move ==== (0, 1), ship ==== 9, game_round ==== 33, decision ==== 7 
+move ==== None, ship ==== 8, game_round ==== 33, decision ==== 2
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 34, decision ==== 8 
+move ==== (0, 0), ship ==== 7, game_round ==== 34, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 34, decision ==== 5 
+move ==== (0, 1), ship ==== 9, game_round ==== 34, decision ==== 6 
+move ==== (0, -1), ship ==== 8, game_round ==== 34, decision ==== 1
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 35, decision ==== 9 
+move ==== (0, 0), ship ==== 7, game_round ==== 35, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 35, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 36, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 36, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 36, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 37, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 37, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 37, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 38, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 38, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 38, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 39, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 39, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 39, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 40, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 40, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 40, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 41, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 41, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 41, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 42, decision ==== 9 
+move ==== (0, -1), ship ==== 6, game_round ==== 42, decision ==== 1
+move ==== (0, -1), ship ==== 4, game_round ==== 42, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 43, decision ==== 5 
+move ==== (0, 1), ship ==== 7, game_round ==== 43, decision ==== 6 
+move ==== None, ship ==== 6, game_round ==== 43, decision ==== 2
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 44, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 44, decision ==== 9 
+move ==== (1, 0), ship ==== 6, game_round ==== 44, decision ==== 1
+move ==== 3 
+move ==== (-1, 0), ship ==== 4, game_round ==== 45, decision ==== 1
+move ==== (0, 1), ship ==== 7, game_round ==== 45, decision ==== 6 
+move ==== None, ship ==== 6, game_round ==== 45, decision ==== 2
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 46, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 46, decision ==== 1
+move ==== (1, 0), ship ==== 6, game_round ==== 46, decision ==== 1
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 47, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 47, decision ==== 6 
+move ==== None, ship ==== 6, game_round ==== 47, decision ==== 2
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 48, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 48, decision ==== 4 
+move ==== (0, -1), ship ==== 6, game_round ==== 48, decision ==== 1
+move ==== 3 
+move ==== (0, 0), ship ==== 7, game_round ==== 49, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 49, decision ==== 5 
+move ==== None, ship ==== 6, game_round ==== 49, decision ==== 2
+move ==== (0, 1), ship ==== 11, game_round ==== 49, decision ==== 6 
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 50, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 50, decision ==== 5 
+move ==== (0, -1), ship ==== 6, game_round ==== 50, decision ==== 1
+move ==== (0, 0), ship ==== 11, game_round ==== 50, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 51, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 51, decision ==== 5 
+move ==== None, ship ==== 6, game_round ==== 51, decision ==== 2
+move ==== (0, 1), ship ==== 11, game_round ==== 51, decision ==== 6 
+move ==== 4 
+move ==== (1, 0), ship ==== 7, game_round ==== 52, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 52, decision ==== 5 
+move ==== (-1, 0), ship ==== 6, game_round ==== 52, decision ==== 1
+move ==== (0, -1), ship ==== 11, game_round ==== 52, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 53, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 53, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 53, decision ==== 5 
+move ==== (0, -1), ship ==== 6, game_round ==== 53, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 54, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 54, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 54, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 54, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 55, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 55, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 55, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 55, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 56, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 56, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 56, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 56, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 57, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 57, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 57, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 57, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 58, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 58, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 58, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 58, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 59, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 59, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 59, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 59, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 60, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 60, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 60, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 60, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 61, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 61, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 61, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 61, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 62, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 62, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 62, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 62, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 63, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 63, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 63, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 63, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 64, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 64, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 64, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 64, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 65, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 65, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 65, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 65, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 66, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 66, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 66, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 66, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 67, decision ==== 5 
+move ==== (0, 0), ship ==== 11, game_round ==== 67, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 67, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 67, decision ==== 9 
+move ==== 4 
+move ==== (0, -1), ship ==== 4, game_round ==== 68, decision ==== 4 
+move ==== (0, 0), ship ==== 11, game_round ==== 68, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 68, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 68, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 11, game_round ==== 69, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 69, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 69, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 69, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 11, game_round ==== 70, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 70, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 70, decision ==== 1
+move ==== (0, 1), ship ==== 6, game_round ==== 70, decision ==== 4 
+move ==== 4 
+move ==== (-1, 0), ship ==== 11, game_round ==== 71, decision ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 71, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 71, decision ==== 1
+move ==== (0, 0), ship ==== 6, game_round ==== 71, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 72, decision ==== 9 
+move ==== (0, 0), ship ==== 11, game_round ==== 72, decision ==== 5 
+move ==== None, ship ==== 4, game_round ==== 72, decision ==== 2
+move ==== (0, 1), ship ==== 6, game_round ==== 72, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 11, game_round ==== 73, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 73, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 73, decision ==== 1
+move ==== (0, 0), ship ==== 6, game_round ==== 73, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 11, game_round ==== 74, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 74, decision ==== 5 
+move ==== None, ship ==== 4, game_round ==== 74, decision ==== 2
+move ==== (0, 1), ship ==== 6, game_round ==== 74, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 11, game_round ==== 75, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 75, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 75, decision ==== 9 
+move ==== (1, 0), ship ==== 4, game_round ==== 75, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 11, game_round ==== 76, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 76, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 76, decision ==== 4 
+move ==== None, ship ==== 4, game_round ==== 76, decision ==== 2
+move ==== 4 
+move ==== (1, 0), ship ==== 11, game_round ==== 77, decision ==== 1
+move ==== (0, 0), ship ==== 7, game_round ==== 77, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 77, decision ==== 9 
+move ==== (1, 0), ship ==== 4, game_round ==== 77, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 78, decision ==== 5 
+move ==== None, ship ==== 11, game_round ==== 78, decision ==== 2
+move ==== (0, 1), ship ==== 6, game_round ==== 78, decision ==== 4 
+move ==== None, ship ==== 4, game_round ==== 78, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 79, decision ==== 5 
+move ==== (0, 1), ship ==== 11, game_round ==== 79, decision ==== 1
+move ==== (0, 0), ship ==== 6, game_round ==== 79, decision ==== 9 
+move ==== (1, 0), ship ==== 4, game_round ==== 79, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 80, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 80, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 80, decision ==== 2
+move ==== None, ship ==== 4, game_round ==== 80, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 81, decision ==== 9 
+move ==== (0, 0), ship ==== 6, game_round ==== 81, decision ==== 8 
+move ==== (-1, 0), ship ==== 11, game_round ==== 81, decision ==== 1
+move ==== (1, 0), ship ==== 4, game_round ==== 81, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 6, game_round ==== 82, decision ==== 8 
+move ==== (0, 1), ship ==== 7, game_round ==== 82, decision ==== 7 
+move ==== None, ship ==== 11, game_round ==== 82, decision ==== 2
+move ==== None, ship ==== 4, game_round ==== 82, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 6, game_round ==== 83, decision ==== 8 
+move ==== (0, 1), ship ==== 7, game_round ==== 83, decision ==== 6 
+move ==== (1, 0), ship ==== 11, game_round ==== 83, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 83, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 6, game_round ==== 84, decision ==== 9 
+move ==== (-1, 0), ship ==== 7, game_round ==== 84, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 84, decision ==== 2
+move ==== None, ship ==== 4, game_round ==== 84, decision ==== 2
+move ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 85, decision ==== 1
+move ==== (0, 1), ship ==== 6, game_round ==== 85, decision ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 85, decision ==== 5 
+move ==== (-1, 0), ship ==== 11, game_round ==== 85, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 86, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 86, decision ==== 1
+move ==== (0, 0), ship ==== 6, game_round ==== 86, decision ==== 8 
+move ==== None, ship ==== 11, game_round ==== 86, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 87, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 87, decision ==== 8 
+move ==== (0, 1), ship ==== 4, game_round ==== 87, decision ==== 6 
+move ==== (-1, 0), ship ==== 11, game_round ==== 87, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 88, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 88, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 88, decision ==== 8 
+move ==== (0, 1), ship ==== 11, game_round ==== 88, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 89, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 89, decision ==== 8 
+move ==== (0, 1), ship ==== 6, game_round ==== 89, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 89, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 90, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 90, decision ==== 9 
+move ==== (0, 0), ship ==== 6, game_round ==== 90, decision ==== 8 
+move ==== (0, 1), ship ==== 11, game_round ==== 90, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 91, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 91, decision ==== 8 
+move ==== (0, 1), ship ==== 4, game_round ==== 91, decision ==== 6 
+move ==== None, ship ==== 11, game_round ==== 91, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 92, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 92, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 92, decision ==== 8 
+move ==== (1, 0), ship ==== 11, game_round ==== 92, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 93, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 93, decision ==== 4 
+move ==== (0, 1), ship ==== 6, game_round ==== 93, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 93, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 94, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 94, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 94, decision ==== 9 
+move ==== (0, 1), ship ==== 11, game_round ==== 94, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 95, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 95, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 95, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 95, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 96, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 96, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 96, decision ==== 9 
+move ==== (0, 1), ship ==== 11, game_round ==== 96, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 97, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 97, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 97, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 97, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 98, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 98, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 98, decision ==== 9 
+move ==== (1, 0), ship ==== 11, game_round ==== 98, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 99, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 99, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 99, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 99, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 100, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 100, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 100, decision ==== 9 
+move ==== (-1, 0), ship ==== 11, game_round ==== 100, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 101, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 101, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 101, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 101, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 102, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 102, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 102, decision ==== 9 
+move ==== (1, 0), ship ==== 11, game_round ==== 102, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 7, game_round ==== 103, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 103, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 103, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 103, decision ==== 2
+move ==== 4 
+move ==== (-1, 0), ship ==== 7, game_round ==== 104, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 104, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 104, decision ==== 9 
+move ==== (1, 0), ship ==== 11, game_round ==== 104, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 105, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 105, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 105, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 105, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 106, decision ==== 5 
+move ==== (0, 0), ship ==== 7, game_round ==== 106, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 106, decision ==== 9 
+move ==== (-1, 0), ship ==== 11, game_round ==== 106, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 107, decision ==== 5 
+move ==== (1, 0), ship ==== 7, game_round ==== 107, decision ==== 1
+move ==== (0, 1), ship ==== 6, game_round ==== 107, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 107, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 108, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 108, decision ==== 9 
+move ==== (1, 0), ship ==== 7, game_round ==== 108, decision ==== 1
+move ==== (0, 1), ship ==== 11, game_round ==== 108, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 109, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 109, decision ==== 4 
+move ==== None, ship ==== 7, game_round ==== 109, decision ==== 2
+move ==== None, ship ==== 11, game_round ==== 109, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 110, decision ==== 5 
+move ==== (1, 0), ship ==== 7, game_round ==== 110, decision ==== 1
+move ==== (0, 0), ship ==== 6, game_round ==== 110, decision ==== 9 
+move ==== (0, 1), ship ==== 11, game_round ==== 110, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 111, decision ==== 5 
+move ==== None, ship ==== 7, game_round ==== 111, decision ==== 2
+move ==== (0, 1), ship ==== 6, game_round ==== 111, decision ==== 4 
+move ==== None, ship ==== 11, game_round ==== 111, decision ==== 2
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 112, decision ==== 9 
+move ==== (-1, 0), ship ==== 6, game_round ==== 112, decision ==== 4 
+move ==== 2 
+move ==== (1, 0), ship ==== 12, game_round ==== 113, decision ==== 6 
+move ==== (0, -1), ship ==== 4, game_round ==== 113, decision ==== 4 
+move ==== (0, 0), ship ==== 6, game_round ==== 113, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 114, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 114, decision ==== 5 
+move ==== (1, 0), ship ==== 12, game_round ==== 114, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 115, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 115, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 115, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 116, decision ==== 5 
+move ==== (1, 0), ship ==== 12, game_round ==== 116, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 116, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 117, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 117, decision ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 117, decision ==== 1
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 118, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 118, decision ==== 1
+move ==== (1, 0), ship ==== 12, game_round ==== 118, decision ==== 8 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 119, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 119, decision ==== 6 
+move ==== (1, 0), ship ==== 12, game_round ==== 119, decision ==== 8 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 120, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 120, decision ==== 9 
+move ==== (1, 0), ship ==== 12, game_round ==== 120, decision ==== 8 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 121, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 121, decision ==== 6 
+move ==== (1, 0), ship ==== 12, game_round ==== 121, decision ==== 8 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 122, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 122, decision ==== 4 
+move ==== (1, 0), ship ==== 12, game_round ==== 122, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 123, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 123, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 123, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 124, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 124, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 124, decision ==== 5 
+move ==== 3 
+move ==== (0, 0), ship ==== 6, game_round ==== 125, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 125, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 125, decision ==== 5 
+move ==== 3 
+move ==== (-1, 0), ship ==== 6, game_round ==== 126, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 126, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 126, decision ==== 5 
+move ==== 3 
+move ==== (0, 1), ship ==== 12, game_round ==== 127, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 127, decision ==== 1
+move ==== (0, 0), ship ==== 6, game_round ==== 127, decision ==== 5 
+move ==== 3 
+move ==== (0, -1), ship ==== 6, game_round ==== 128, decision ==== 1
+move ==== (0, 1), ship ==== 4, game_round ==== 128, decision ==== 1
+move ==== (0, 1), ship ==== 12, game_round ==== 128, decision ==== 4 
+move ==== 3 
+move ==== (1, 0), ship ==== 6, game_round ==== 129, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 129, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 129, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 130, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 130, decision ==== 5 
+move ==== None, ship ==== 6, game_round ==== 130, decision ==== 2
+move ==== 3 
+move ==== (0, 1), ship ==== 4, game_round ==== 131, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 131, decision ==== 5 
+move ==== (0, -1), ship ==== 6, game_round ==== 131, decision ==== 1
+move ==== 3 
+move ==== (0, 1), ship ==== 4, game_round ==== 132, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 132, decision ==== 5 
+move ==== None, ship ==== 6, game_round ==== 132, decision ==== 2
+move ==== 3 
+move ==== (0, 1), ship ==== 4, game_round ==== 133, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 133, decision ==== 5 
+move ==== (1, 0), ship ==== 6, game_round ==== 133, decision ==== 1
+move ==== 3 
+move ==== (-1, 0), ship ==== 4, game_round ==== 134, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 134, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 134, decision ==== 1
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 135, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 135, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 135, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 136, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 136, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 136, decision ==== 9 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 137, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 137, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 137, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 138, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 138, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 138, decision ==== 9 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 139, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 139, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 139, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 140, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 140, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 140, decision ==== 9 
+move ==== 3 
+move ==== (0, 1), ship ==== 4, game_round ==== 141, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 141, decision ==== 5 
+move ==== (0, 1), ship ==== 6, game_round ==== 141, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 142, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 142, decision ==== 5 
+move ==== (-1, 0), ship ==== 6, game_round ==== 142, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 4, game_round ==== 143, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 143, decision ==== 5 
+move ==== (-1, 0), ship ==== 6, game_round ==== 143, decision ==== 4 
+move ==== (0, 1), ship ==== 13, game_round ==== 143, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 144, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 144, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 144, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 144, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 145, decision ==== 5 
+move ==== (0, 1), ship ==== 12, game_round ==== 145, decision ==== 4 
+move ==== (0, 0), ship ==== 6, game_round ==== 145, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 145, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 146, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 146, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 146, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 146, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 147, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 147, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 147, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 147, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 148, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 148, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 148, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 148, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 149, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 149, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 149, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 149, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 150, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 150, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 150, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 150, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 151, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 151, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 151, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 151, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 152, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 152, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 152, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 152, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 153, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 153, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 153, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 153, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 154, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 154, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 154, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 154, decision ==== 4 
+move ==== 4 
+move ==== (1, 0), ship ==== 12, game_round ==== 155, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 155, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 155, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 155, decision ==== 9 
+move ==== 4 
+move ==== (0, -1), ship ==== 12, game_round ==== 156, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 156, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 156, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 156, decision ==== 4 
+move ==== 4 
+move ==== (0, -1), ship ==== 12, game_round ==== 157, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 157, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 157, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 157, decision ==== 9 
+move ==== 4 
+move ==== (0, -1), ship ==== 12, game_round ==== 158, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 158, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 158, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 158, decision ==== 4 
+move ==== 4 
+move ==== (-1, 0), ship ==== 12, game_round ==== 159, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 159, decision ==== 5 
+move ==== (0, 0), ship ==== 6, game_round ==== 159, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 159, decision ==== 4 
+move ==== 4 
+move ==== (0, 1), ship ==== 12, game_round ==== 160, decision ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 160, decision ==== 4 
+move ==== (0, 0), ship ==== 6, game_round ==== 160, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 160, decision ==== 5 
+move ==== 4 
+move ==== (-1, 0), ship ==== 6, game_round ==== 161, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 161, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 161, decision ==== 5 
+move ==== (0, 1), ship ==== 12, game_round ==== 161, decision ==== 4 
+move ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 162, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 162, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 162, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 162, decision ==== 6 
+move ==== (0, 0), ship ==== 6, game_round ==== 162, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 163, decision ==== 5 
+move ==== (0, 1), ship ==== 12, game_round ==== 163, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 163, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 163, decision ==== 9 
+move ==== (0, 0), ship ==== 6, game_round ==== 163, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 164, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 164, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 164, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 164, decision ==== 6 
+move ==== (0, 0), ship ==== 6, game_round ==== 164, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 165, decision ==== 5 
+move ==== (0, 1), ship ==== 12, game_round ==== 165, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 165, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 165, decision ==== 9 
+move ==== (0, 0), ship ==== 6, game_round ==== 165, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 166, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 166, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 166, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 166, decision ==== 6 
+move ==== (0, 0), ship ==== 6, game_round ==== 166, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 167, decision ==== 5 
+move ==== (0, 1), ship ==== 12, game_round ==== 167, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 167, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 167, decision ==== 9 
+move ==== (0, 0), ship ==== 6, game_round ==== 167, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 168, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 168, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 168, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 168, decision ==== 6 
+move ==== (0, 0), ship ==== 6, game_round ==== 168, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 169, decision ==== 5 
+move ==== (0, 1), ship ==== 12, game_round ==== 169, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 169, decision ==== 5 
+move ==== (0, -1), ship ==== 14, game_round ==== 169, decision ==== 4 
+move ==== (1, 0), ship ==== 6, game_round ==== 169, decision ==== 1
+move ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 170, decision ==== 4 
+move ==== (1, 0), ship ==== 12, game_round ==== 170, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 170, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 170, decision ==== 5 
+move ==== (0, -1), ship ==== 6, game_round ==== 170, decision ==== 1
+move ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 171, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 171, decision ==== 5 
+move ==== (1, 0), ship ==== 6, game_round ==== 171, decision ==== 1
+move ==== (0, 0), ship ==== 14, game_round ==== 171, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 171, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 172, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 172, decision ==== 5 
+move ==== (1, 0), ship ==== 6, game_round ==== 172, decision ==== 1
+move ==== (0, 0), ship ==== 14, game_round ==== 172, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 172, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 173, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 173, decision ==== 5 
+move ==== (-1, 0), ship ==== 6, game_round ==== 173, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 173, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 173, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 174, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 174, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 174, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 174, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 175, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 175, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 175, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 175, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 176, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 176, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 176, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 176, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 177, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 177, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 177, decision ==== 5 
+move ==== (1, 0), ship ==== 14, game_round ==== 177, decision ==== 1
+move ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 178, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 178, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 178, decision ==== 5 
+move ==== (-1, 0), ship ==== 14, game_round ==== 178, decision ==== 4 
+move ==== 4 
+move ==== (0, -1), ship ==== 4, game_round ==== 179, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 179, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 179, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 179, decision ==== 5 
+move ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 180, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 180, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 180, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 180, decision ==== 5 
+move ==== (-1, 0), ship ==== 15, game_round ==== 180, decision ==== 6 
+move ==== 5 
+move ==== (0, -1), ship ==== 4, game_round ==== 181, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 181, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 181, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 181, decision ==== 5 
+move ==== (0, 1), ship ==== 15, game_round ==== 181, decision ==== 4 
+move ==== 5 
+move ==== (0, -1), ship ==== 4, game_round ==== 182, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 182, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 182, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 182, decision ==== 5 
+move ==== (0, 1), ship ==== 15, game_round ==== 182, decision ==== 4 
+move ==== 5 
+move ==== (1, 0), ship ==== 4, game_round ==== 183, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 183, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 183, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 183, decision ==== 5 
+move ==== (0, -1), ship ==== 15, game_round ==== 183, decision ==== 4 
+move ==== 5 
+move ==== (1, 0), ship ==== 4, game_round ==== 184, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 184, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 184, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 184, decision ==== 5 
+move ==== (0, 1), ship ==== 15, game_round ==== 184, decision ==== 4 
+move ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 185, decision ==== 1
+move ==== (0, 0), ship ==== 12, game_round ==== 185, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 185, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 185, decision ==== 5 
+move ==== (0, -1), ship ==== 15, game_round ==== 185, decision ==== 4 
+move ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 186, decision ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 186, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 186, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 186, decision ==== 5 
+move ==== (0, 1), ship ==== 15, game_round ==== 186, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 187, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 187, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 187, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 187, decision ==== 5 
+move ==== (0, -1), ship ==== 15, game_round ==== 187, decision ==== 4 
+move ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 188, decision ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 188, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 188, decision ==== 5 
+move ==== None, ship ==== 14, game_round ==== 188, decision ==== 2
+move ==== (0, 1), ship ==== 15, game_round ==== 188, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 189, decision ==== 9 
+move ==== (1, 0), ship ==== 12, game_round ==== 189, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 189, decision ==== 5 
+move ==== (1, 0), ship ==== 14, game_round ==== 189, decision ==== 1
+move ==== (0, -1), ship ==== 15, game_round ==== 189, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 190, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 190, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 190, decision ==== 6 
+move ==== (0, 1), ship ==== 15, game_round ==== 190, decision ==== 9 
+move ==== None, ship ==== 14, game_round ==== 190, decision ==== 2
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 191, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 191, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 191, decision ==== 4 
+move ==== (0, -1), ship ==== 14, game_round ==== 191, decision ==== 1
+move ==== (0, 0), ship ==== 15, game_round ==== 191, decision ==== 8 
+move ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 192, decision ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 192, decision ==== 5 
+move ==== (-1, 0), ship ==== 15, game_round ==== 192, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 192, decision ==== 5 
+move ==== None, ship ==== 14, game_round ==== 192, decision ==== 2
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 193, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 193, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 193, decision ==== 1
+move ==== (1, 0), ship ==== 14, game_round ==== 193, decision ==== 1
+move ==== (-1, 0), ship ==== 15, game_round ==== 193, decision ==== 4 
+move ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 194, decision ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 194, decision ==== 5 
+move ==== (0, -1), ship ==== 13, game_round ==== 194, decision ==== 1
+move ==== (0, 0), ship ==== 15, game_round ==== 194, decision ==== 9 
+move ==== None, ship ==== 14, game_round ==== 194, decision ==== 2
+move ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 195, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 195, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 195, decision ==== 9 
+move ==== None, ship ==== 13, game_round ==== 195, decision ==== 2
+move ==== (1, 0), ship ==== 14, game_round ==== 195, decision ==== 1
+move ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 196, decision ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 196, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 196, decision ==== 5 
+move ==== (0, -1), ship ==== 13, game_round ==== 196, decision ==== 1
+move ==== None, ship ==== 14, game_round ==== 196, decision ==== 2
+move ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 197, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 197, decision ==== 5 
+move ==== (-1, 0), ship ==== 15, game_round ==== 197, decision ==== 4 
+move ==== (0, -1), ship ==== 13, game_round ==== 197, decision ==== 1
+move ==== (0, 1), ship ==== 14, game_round ==== 197, decision ==== 1
+move ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 198, decision ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 198, decision ==== 5 
+move ==== None, ship ==== 13, game_round ==== 198, decision ==== 2
+move ==== (-1, 0), ship ==== 15, game_round ==== 198, decision ==== 4 
+move ==== None, ship ==== 14, game_round ==== 198, decision ==== 2
+move ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 199, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 199, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 199, decision ==== 1
+move ==== (0, 0), ship ==== 15, game_round ==== 199, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 199, decision ==== 1
+move ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 200, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 200, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 200, decision ==== 5 
+move ==== None, ship ==== 13, game_round ==== 200, decision ==== 2
+move ==== None, ship ==== 14, game_round ==== 200, decision ==== 2
+move ==== (-1, 0), ship ==== 16, game_round ==== 200, decision ==== 6 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 201, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 201, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 201, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 201, decision ==== 1
+move ==== (0, 1), ship ==== 14, game_round ==== 201, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 201, decision ==== 9 
+move ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 202, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 202, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 202, decision ==== 5 
+move ==== None, ship ==== 13, game_round ==== 202, decision ==== 2
+move ==== None, ship ==== 14, game_round ==== 202, decision ==== 2
+move ==== (-1, 0), ship ==== 16, game_round ==== 202, decision ==== 7 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 203, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 203, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 203, decision ==== 5 
+move ==== (0, 1), ship ==== 16, game_round ==== 203, decision ==== 4 
+move ==== None, ship ==== 13, game_round ==== 203, decision ==== 2
+move ==== (1, 0), ship ==== 14, game_round ==== 203, decision ==== 1
+move ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 204, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 204, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 204, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 204, decision ==== 1
+move ==== (0, 1), ship ==== 16, game_round ==== 204, decision ==== 4 
+move ==== (0, 1), ship ==== 14, game_round ==== 204, decision ==== 1
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 205, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 205, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 205, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 205, decision ==== 1
+move ==== (0, 1), ship ==== 16, game_round ==== 205, decision ==== 4 
+move ==== (0, 1), ship ==== 14, game_round ==== 205, decision ==== 4 
+move ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 206, decision ==== 4 
+move ==== (1, 0), ship ==== 12, game_round ==== 206, decision ==== 4 
+move ==== (0, 0), ship ==== 15, game_round ==== 206, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 206, decision ==== 1
+move ==== (0, -1), ship ==== 16, game_round ==== 206, decision ==== 9 
+move ==== (0, 1), ship ==== 14, game_round ==== 206, decision ==== 9 
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 207, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 207, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 207, decision ==== 9 
+move ==== (0, -1), ship ==== 13, game_round ==== 207, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 207, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 207, decision ==== 6 
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 208, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 208, decision ==== 4 
+move ==== (0, -1), ship ==== 12, game_round ==== 208, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 208, decision ==== 5 
+move ==== (0, -1), ship ==== 13, game_round ==== 208, decision ==== 1
+move ==== (0, 0), ship ==== 14, game_round ==== 208, decision ==== 8 
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 209, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 209, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 209, decision ==== 4 
+move ==== (0, 0), ship ==== 16, game_round ==== 209, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 209, decision ==== 8 
+move ==== (-1, 0), ship ==== 13, game_round ==== 209, decision ==== 6 
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 210, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 210, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 210, decision ==== 9 
+move ==== (0, 0), ship ==== 4, game_round ==== 210, decision ==== 9 
+move ==== (-1, 0), ship ==== 12, game_round ==== 210, decision ==== 1
+move ==== (0, 0), ship ==== 13, game_round ==== 210, decision ==== 8 
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 211, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 211, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 211, decision ==== 8 
+move ==== (-1, 0), ship ==== 14, game_round ==== 211, decision ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 211, decision ==== 4 
+move ==== (-1, 0), ship ==== 12, game_round ==== 211, decision ==== 1
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 212, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 212, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 212, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 212, decision ==== 8 
+move ==== (0, 0), ship ==== 4, game_round ==== 212, decision ==== 9 
+move ==== None, ship ==== 12, game_round ==== 212, decision ==== 2
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 213, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 213, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 213, decision ==== 8 
+move ==== (-1, 0), ship ==== 13, game_round ==== 213, decision ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 213, decision ==== 4 
+move ==== (0, -1), ship ==== 12, game_round ==== 213, decision ==== 1
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 214, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 214, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 214, decision ==== 9 
+move ==== (0, 0), ship ==== 13, game_round ==== 214, decision ==== 8 
+move ==== (0, 0), ship ==== 4, game_round ==== 214, decision ==== 9 
+move ==== None, ship ==== 12, game_round ==== 214, decision ==== 2
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 215, decision ==== 9 
+move ==== (0, 0), ship ==== 16, game_round ==== 215, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 215, decision ==== 8 
+move ==== (-1, 0), ship ==== 14, game_round ==== 215, decision ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 215, decision ==== 5 
+move ==== (0, -1), ship ==== 12, game_round ==== 215, decision ==== 1
+move ==== 6 
+move ==== (0, 0), ship ==== 16, game_round ==== 216, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 216, decision ==== 9 
+move ==== None, ship ==== 12, game_round ==== 216, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 216, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 216, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 216, decision ==== 8 
+move ==== 6 
+move ==== (0, 0), ship ==== 16, game_round ==== 217, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 217, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 217, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 217, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 217, decision ==== 8 
+move ==== (-1, 0), ship ==== 13, game_round ==== 217, decision ==== 6 
+move ==== 6 
+move ==== (0, 0), ship ==== 16, game_round ==== 218, decision ==== 5 
+move ==== (0, -1), ship ==== 12, game_round ==== 218, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 218, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 218, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 218, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 218, decision ==== 8 
+move ==== 6 
+move ==== (1, 0), ship ==== 16, game_round ==== 219, decision ==== 4 
+move ==== (0, 1), ship ==== 12, game_round ==== 219, decision ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 219, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 219, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 219, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 219, decision ==== 8 
+move ==== 6 
+move ==== (0, 1), ship ==== 12, game_round ==== 220, decision ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 220, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 220, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 220, decision ==== 9 
+move ==== (0, 0), ship ==== 13, game_round ==== 220, decision ==== 8 
+move ==== (0, 0), ship ==== 16, game_round ==== 220, decision ==== 5 
+move ==== 6 
+move ==== (0, 1), ship ==== 12, game_round ==== 221, decision ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 221, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 221, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 221, decision ==== 8 
+move ==== (0, 0), ship ==== 16, game_round ==== 221, decision ==== 5 
+move ==== (-1, 0), ship ==== 14, game_round ==== 221, decision ==== 6 
+move ==== 6 
+move ==== (-1, 0), ship ==== 12, game_round ==== 222, decision ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 222, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 222, decision ==== 9 
+move ==== (0, 0), ship ==== 13, game_round ==== 222, decision ==== 9 
+move ==== (0, 0), ship ==== 16, game_round ==== 222, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 222, decision ==== 8 
+move ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 223, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 223, decision ==== 8 
+move ==== (0, 0), ship ==== 16, game_round ==== 223, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 223, decision ==== 8 
+move ==== (-1, 0), ship ==== 15, game_round ==== 223, decision ==== 4 
+move ==== (0, 1), ship ==== 13, game_round ==== 223, decision ==== 4 
+move ==== 6 
+move ==== (0, 0), ship ==== 12, game_round ==== 224, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 224, decision ==== 4 
+move ==== (0, 0), ship ==== 16, game_round ==== 224, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 224, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 224, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 224, decision ==== 8 
+move ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 225, decision ==== 4 
+move ==== (0, 0), ship ==== 12, game_round ==== 225, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 225, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 225, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 225, decision ==== 8 
+move ==== (-1, 0), ship ==== 14, game_round ==== 225, decision ==== 4 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 226, decision ==== 9 
+move ==== (0, 0), ship ==== 12, game_round ==== 226, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 226, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 226, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 226, decision ==== 9 
+move ==== (-1, 0), ship ==== 14, game_round ==== 226, decision ==== 4 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 227, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 227, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 227, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 227, decision ==== 5 
+move ==== (-1, 0), ship ==== 14, game_round ==== 227, decision ==== 4 
+move ==== (-1, 0), ship ==== 13, game_round ==== 227, decision ==== 4 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 228, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 228, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 228, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 228, decision ==== 5 
+move ==== (-1, 0), ship ==== 14, game_round ==== 228, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 228, decision ==== 9 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 229, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 229, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 229, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 229, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 229, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 229, decision ==== 4 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 230, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 230, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 230, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 230, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 230, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 230, decision ==== 4 
+move ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 231, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 231, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 231, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 231, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 231, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 231, decision ==== 4 
+move ==== (-1, 0), ship ==== 17, game_round ==== 231, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 232, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 232, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 232, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 232, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 232, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 232, decision ==== 9 
+move ==== (-1, 0), ship ==== 17, game_round ==== 232, decision ==== 9 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 233, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 233, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 233, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 233, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 233, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 233, decision ==== 4 
+move ==== (-1, 0), ship ==== 17, game_round ==== 233, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 234, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 234, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 234, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 234, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 234, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 234, decision ==== 9 
+move ==== (-1, 0), ship ==== 17, game_round ==== 234, decision ==== 9 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 235, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 235, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 235, decision ==== 5 
+move ==== (-1, 0), ship ==== 15, game_round ==== 235, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 235, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 235, decision ==== 4 
+move ==== (-1, 0), ship ==== 17, game_round ==== 235, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 236, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 236, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 236, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 236, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 236, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 236, decision ==== 5 
+move ==== (-1, 0), ship ==== 17, game_round ==== 236, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 237, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 237, decision ==== 5 
+move ==== (1, 0), ship ==== 16, game_round ==== 237, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 237, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 237, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 237, decision ==== 9 
+move ==== (-1, 0), ship ==== 17, game_round ==== 237, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 238, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 238, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 238, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 238, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 238, decision ==== 4 
+move ==== (0, 0), ship ==== 16, game_round ==== 238, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 238, decision ==== 9 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 239, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 239, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 239, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 239, decision ==== 5 
+move ==== (0, -1), ship ==== 16, game_round ==== 239, decision ==== 1
+move ==== (0, 0), ship ==== 13, game_round ==== 239, decision ==== 9 
+move ==== (-1, 0), ship ==== 17, game_round ==== 239, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 240, decision ==== 5 
+move ==== (0, 0), ship ==== 12, game_round ==== 240, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 240, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 240, decision ==== 5 
+move ==== (0, -1), ship ==== 16, game_round ==== 240, decision ==== 1
+move ==== (-1, 0), ship ==== 13, game_round ==== 240, decision ==== 4 
+move ==== (-1, 0), ship ==== 17, game_round ==== 240, decision ==== 9 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 241, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 241, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 241, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 241, decision ==== 5 
+move ==== (0, -1), ship ==== 16, game_round ==== 241, decision ==== 1
+move ==== (0, 0), ship ==== 13, game_round ==== 241, decision ==== 9 
+move ==== (-1, 0), ship ==== 17, game_round ==== 241, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 12, game_round ==== 242, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 242, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 242, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 242, decision ==== 5 
+move ==== (-1, 0), ship ==== 16, game_round ==== 242, decision ==== 1
+move ==== (-1, 0), ship ==== 13, game_round ==== 242, decision ==== 4 
+move ==== (-1, 0), ship ==== 17, game_round ==== 242, decision ==== 9 
+move ==== 7 
+move ==== (0, 0), ship ==== 12, game_round ==== 243, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 243, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 243, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 243, decision ==== 5 
+move ==== (-1, 0), ship ==== 16, game_round ==== 243, decision ==== 1
+move ==== (0, 0), ship ==== 13, game_round ==== 243, decision ==== 9 
+move ==== (-1, 0), ship ==== 17, game_round ==== 243, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 12, game_round ==== 244, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 244, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 244, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 244, decision ==== 5 
+move ==== (-1, 0), ship ==== 16, game_round ==== 244, decision ==== 1
+move ==== (-1, 0), ship ==== 13, game_round ==== 244, decision ==== 4 
+move ==== (-1, 0), ship ==== 17, game_round ==== 244, decision ==== 9 
+move ==== 7 
+move ==== (0, 0), ship ==== 12, game_round ==== 245, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 245, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 245, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 245, decision ==== 5 
+move ==== (-1, 0), ship ==== 16, game_round ==== 245, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 245, decision ==== 9 
+move ==== (-1, 0), ship ==== 17, game_round ==== 245, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 12, game_round ==== 246, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 246, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 246, decision ==== 5 
+move ==== (0, 1), ship ==== 15, game_round ==== 246, decision ==== 1
+move ==== (-1, 0), ship ==== 13, game_round ==== 246, decision ==== 4 
+move ==== (-1, 0), ship ==== 16, game_round ==== 246, decision ==== 4 
+move ==== (-1, 0), ship ==== 17, game_round ==== 246, decision ==== 8 
+move ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 247, decision ==== 5 
+move ==== (0, -1), ship ==== 12, game_round ==== 247, decision ==== 1
+move ==== (0, -1), ship ==== 14, game_round ==== 247, decision ==== 4 
+move ==== (0, 0), ship ==== 17, game_round ==== 247, decision ==== 9 
+move ==== (0, 1), ship ==== 15, game_round ==== 247, decision ==== 1
+move ==== (-1, 0), ship ==== 13, game_round ==== 247, decision ==== 4 
+move ==== (-1, 0), ship ==== 16, game_round ==== 247, decision ==== 9 
+move ==== 7 
+move ==== (0, -1), ship ==== 12, game_round ==== 248, decision ==== 1
+move ==== (1, 0), ship ==== 4, game_round ==== 248, decision ==== 1
+move ==== (-1, 0), ship ==== 16, game_round ==== 248, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 248, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 248, decision ==== 9 
+move ==== (1, 0), ship ==== 15, game_round ==== 248, decision ==== 1
+move ==== (0, 0), ship ==== 13, game_round ==== 248, decision ==== 5 
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 249, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 249, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 249, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 249, decision ==== 1
+move ==== (1, 0), ship ==== 12, game_round ==== 249, decision ==== 1
+move ==== (-1, 0), ship ==== 16, game_round ==== 249, decision ==== 4 
+move ==== (0, -1), ship ==== 15, game_round ==== 249, decision ==== 1
+move ==== 7 
+move ==== (1, 0), ship ==== 14, game_round ==== 250, decision ==== 1
+move ==== (0, 0), ship ==== 13, game_round ==== 250, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 250, decision ==== 5 
+move ==== (1, 0), ship ==== 12, game_round ==== 250, decision ==== 1
+move ==== (1, 0), ship ==== 4, game_round ==== 250, decision ==== 1
+move ==== (-1, 0), ship ==== 16, game_round ==== 250, decision ==== 4 
+move ==== (1, 0), ship ==== 15, game_round ==== 250, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 251, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 251, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 251, decision ==== 6 
+move ==== None, ship ==== 12, game_round ==== 251, decision ==== 2
+move ==== (1, 0), ship ==== 14, game_round ==== 251, decision ==== 1
+move ==== (-1, 0), ship ==== 16, game_round ==== 251, decision ==== 4 
+move ==== (1, 0), ship ==== 15, game_round ==== 251, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 252, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 252, decision ==== 5 
+move ==== (1, 0), ship ==== 12, game_round ==== 252, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 252, decision ==== 9 
+move ==== (1, 0), ship ==== 14, game_round ==== 252, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 252, decision ==== 5 
+move ==== (1, 0), ship ==== 15, game_round ==== 252, decision ==== 1
+move ==== 7 
+move ==== (-1, 0), ship ==== 13, game_round ==== 253, decision ==== 4 
+move ==== (0, 0), ship ==== 17, game_round ==== 253, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 253, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 253, decision ==== 6 
+move ==== None, ship ==== 12, game_round ==== 253, decision ==== 2
+move ==== (1, 0), ship ==== 14, game_round ==== 253, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 253, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 254, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 254, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 254, decision ==== 5 
+move ==== (1, 0), ship ==== 12, game_round ==== 254, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 254, decision ==== 9 
+move ==== None, ship ==== 14, game_round ==== 254, decision ==== 2
+move ==== (1, 0), ship ==== 15, game_round ==== 254, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 255, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 255, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 255, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 255, decision ==== 6 
+move ==== None, ship ==== 12, game_round ==== 255, decision ==== 2
+move ==== (1, 0), ship ==== 14, game_round ==== 255, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 255, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 256, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 256, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 256, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 256, decision ==== 1
+move ==== (-1, 0), ship ==== 12, game_round ==== 256, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 256, decision ==== 8 
+move ==== (-1, 0), ship ==== 15, game_round ==== 256, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 257, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 257, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 257, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 257, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 257, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 257, decision ==== 6 
+move ==== None, ship ==== 15, game_round ==== 257, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 258, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 258, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 258, decision ==== 5 
+move ==== (1, 0), ship ==== 12, game_round ==== 258, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 258, decision ==== 9 
+move ==== (-1, 0), ship ==== 15, game_round ==== 258, decision ==== 1
+move ==== (0, 0), ship ==== 14, game_round ==== 258, decision ==== 8 
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 259, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 259, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 259, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 259, decision ==== 8 
+move ==== (0, 1), ship ==== 4, game_round ==== 259, decision ==== 6 
+move ==== None, ship ==== 12, game_round ==== 259, decision ==== 2
+move ==== None, ship ==== 15, game_round ==== 259, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 260, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 260, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 260, decision ==== 5 
+move ==== (1, 0), ship ==== 14, game_round ==== 260, decision ==== 4 
+move ==== (-1, 0), ship ==== 12, game_round ==== 260, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 260, decision ==== 8 
+move ==== (-1, 0), ship ==== 15, game_round ==== 260, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 261, decision ==== 5 
+move ==== (-1, 0), ship ==== 16, game_round ==== 261, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 261, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 261, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 261, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 261, decision ==== 6 
+move ==== None, ship ==== 15, game_round ==== 261, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 262, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 262, decision ==== 5 
+move ==== (-1, 0), ship ==== 12, game_round ==== 262, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 262, decision ==== 9 
+move ==== (0, 0), ship ==== 16, game_round ==== 262, decision ==== 5 
+move ==== (-1, 0), ship ==== 14, game_round ==== 262, decision ==== 4 
+move ==== (-1, 0), ship ==== 15, game_round ==== 262, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 263, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 263, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 263, decision ==== 5 
+move ==== (0, 1), ship ==== 4, game_round ==== 263, decision ==== 6 
+move ==== None, ship ==== 12, game_round ==== 263, decision ==== 2
+move ==== (0, 0), ship ==== 14, game_round ==== 263, decision ==== 5 
+move ==== None, ship ==== 15, game_round ==== 263, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 264, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 264, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 264, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 264, decision ==== 5 
+move ==== (0, -1), ship ==== 12, game_round ==== 264, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 264, decision ==== 9 
+move ==== (-1, 0), ship ==== 15, game_round ==== 264, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 265, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 265, decision ==== 5 
+move ==== (1, 0), ship ==== 16, game_round ==== 265, decision ==== 1
+move ==== (0, 0), ship ==== 14, game_round ==== 265, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 265, decision ==== 4 
+move ==== None, ship ==== 12, game_round ==== 265, decision ==== 2
+move ==== (0, -1), ship ==== 15, game_round ==== 265, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 266, decision ==== 9 
+move ==== (0, 0), ship ==== 13, game_round ==== 266, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 266, decision ==== 5 
+move ==== (0, -1), ship ==== 16, game_round ==== 266, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 266, decision ==== 9 
+move ==== (0, -1), ship ==== 12, game_round ==== 266, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 266, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 267, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 267, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 267, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 267, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 267, decision ==== 4 
+move ==== (1, 0), ship ==== 16, game_round ==== 267, decision ==== 1
+move ==== (1, 0), ship ==== 15, game_round ==== 267, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 268, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 268, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 268, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 268, decision ==== 9 
+move ==== (-1, 0), ship ==== 12, game_round ==== 268, decision ==== 1
+move ==== (1, 0), ship ==== 16, game_round ==== 268, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 268, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 269, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 269, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 269, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 269, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 269, decision ==== 4 
+move ==== (1, 0), ship ==== 16, game_round ==== 269, decision ==== 1
+move ==== (0, -1), ship ==== 15, game_round ==== 269, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 270, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 270, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 270, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 270, decision ==== 9 
+move ==== (-1, 0), ship ==== 12, game_round ==== 270, decision ==== 1
+move ==== (0, 1), ship ==== 16, game_round ==== 270, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 270, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 271, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 271, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 271, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 271, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 271, decision ==== 4 
+move ==== None, ship ==== 16, game_round ==== 271, decision ==== 2
+move ==== (-1, 0), ship ==== 15, game_round ==== 271, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 13, game_round ==== 272, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 272, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 272, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 272, decision ==== 9 
+move ==== (-1, 0), ship ==== 12, game_round ==== 272, decision ==== 1
+move ==== (1, 0), ship ==== 16, game_round ==== 272, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 272, decision ==== 2
+move ==== 7 
+move ==== (-1, 0), ship ==== 13, game_round ==== 273, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 273, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 273, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 273, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 273, decision ==== 4 
+move ==== (1, 0), ship ==== 15, game_round ==== 273, decision ==== 1
+move ==== None, ship ==== 16, game_round ==== 273, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 274, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 274, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 274, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 274, decision ==== 9 
+move ==== (-1, 0), ship ==== 12, game_round ==== 274, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 274, decision ==== 2
+move ==== (0, 1), ship ==== 16, game_round ==== 274, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 275, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 275, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 275, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 275, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 275, decision ==== 4 
+move ==== (0, -1), ship ==== 15, game_round ==== 275, decision ==== 1
+move ==== None, ship ==== 16, game_round ==== 275, decision ==== 2
+move ==== 7 
+move ==== (-1, 0), ship ==== 14, game_round ==== 276, decision ==== 4 
+move ==== (0, 0), ship ==== 17, game_round ==== 276, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 276, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 276, decision ==== 9 
+move ==== (-1, 0), ship ==== 12, game_round ==== 276, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 276, decision ==== 2
+move ==== (1, 0), ship ==== 16, game_round ==== 276, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 277, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 277, decision ==== 1
+move ==== (0, 0), ship ==== 14, game_round ==== 277, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 277, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 277, decision ==== 4 
+move ==== (0, -1), ship ==== 15, game_round ==== 277, decision ==== 1
+move ==== None, ship ==== 16, game_round ==== 277, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 278, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 278, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 278, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 278, decision ==== 9 
+move ==== (1, 0), ship ==== 12, game_round ==== 278, decision ==== 1
+move ==== (1, 0), ship ==== 16, game_round ==== 278, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 278, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 279, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 279, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 279, decision ==== 1
+move ==== None, ship ==== 12, game_round ==== 279, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 279, decision ==== 4 
+move ==== (1, 0), ship ==== 16, game_round ==== 279, decision ==== 1
+move ==== (0, -1), ship ==== 15, game_round ==== 279, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 280, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 280, decision ==== 5 
+move ==== (0, -1), ship ==== 13, game_round ==== 280, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 280, decision ==== 4 
+move ==== (0, 1), ship ==== 12, game_round ==== 280, decision ==== 1
+move ==== (0, -1), ship ==== 16, game_round ==== 280, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 280, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 281, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 281, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 281, decision ==== 1
+move ==== None, ship ==== 12, game_round ==== 281, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 281, decision ==== 4 
+move ==== (-1, 0), ship ==== 16, game_round ==== 281, decision ==== 4 
+move ==== (-1, 0), ship ==== 15, game_round ==== 281, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 282, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 282, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 282, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 282, decision ==== 4 
+move ==== (0, 1), ship ==== 12, game_round ==== 282, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 282, decision ==== 9 
+move ==== None, ship ==== 15, game_round ==== 282, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 17, game_round ==== 283, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 283, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 283, decision ==== 1
+move ==== None, ship ==== 12, game_round ==== 283, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 283, decision ==== 9 
+move ==== (-1, 0), ship ==== 16, game_round ==== 283, decision ==== 4 
+move ==== (-1, 0), ship ==== 15, game_round ==== 283, decision ==== 1
+move ==== 7 
+move ==== (0, -1), ship ==== 17, game_round ==== 284, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 284, decision ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 284, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 284, decision ==== 4 
+move ==== (-1, 0), ship ==== 12, game_round ==== 284, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 284, decision ==== 9 
+move ==== None, ship ==== 15, game_round ==== 284, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 285, decision ==== 5 
+move ==== (0, 0), ship ==== 17, game_round ==== 285, decision ==== 5 
+move ==== (-1, 0), ship ==== 16, game_round ==== 285, decision ==== 4 
+move ==== (1, 0), ship ==== 13, game_round ==== 285, decision ==== 1
+move ==== None, ship ==== 12, game_round ==== 285, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 285, decision ==== 9 
+move ==== (-1, 0), ship ==== 15, game_round ==== 285, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 286, decision ==== 5 
+move ==== (0, 1), ship ==== 17, game_round ==== 286, decision ==== 1
+move ==== (1, 0), ship ==== 13, game_round ==== 286, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 286, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 286, decision ==== 4 
+move ==== (-1, 0), ship ==== 12, game_round ==== 286, decision ==== 1
+move ==== None, ship ==== 15, game_round ==== 286, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 287, decision ==== 5 
+move ==== None, ship ==== 12, game_round ==== 287, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 287, decision ==== 9 
+move ==== (1, 0), ship ==== 17, game_round ==== 287, decision ==== 1
+move ==== (1, 0), ship ==== 15, game_round ==== 287, decision ==== 1
+move ==== (-1, 0), ship ==== 13, game_round ==== 287, decision ==== 1
+move ==== (-1, 0), ship ==== 16, game_round ==== 287, decision ==== 4 
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 288, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 288, decision ==== 4 
+move ==== (0, 1), ship ==== 12, game_round ==== 288, decision ==== 1
+move ==== (0, 1), ship ==== 17, game_round ==== 288, decision ==== 1
+move ==== (0, -1), ship ==== 15, game_round ==== 288, decision ==== 1
+move ==== (0, 0), ship ==== 16, game_round ==== 288, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 288, decision ==== 2
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 289, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 289, decision ==== 8 
+move ==== (0, -1), ship ==== 13, game_round ==== 289, decision ==== 1
+move ==== (1, 0), ship ==== 17, game_round ==== 289, decision ==== 1
+move ==== None, ship ==== 12, game_round ==== 289, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 289, decision ==== 9 
+move ==== (-1, 0), ship ==== 15, game_round ==== 289, decision ==== 6 
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 290, decision ==== 5 
+move ==== (0, 0), ship ==== 16, game_round ==== 290, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 290, decision ==== 4 
+move ==== (0, -1), ship ==== 12, game_round ==== 290, decision ==== 1
+move ==== None, ship ==== 13, game_round ==== 290, decision ==== 2
+move ==== None, ship ==== 17, game_round ==== 290, decision ==== 2
+move ==== (0, 0), ship ==== 15, game_round ==== 290, decision ==== 8 
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 291, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 291, decision ==== 8 
+move ==== (0, 1), ship ==== 16, game_round ==== 291, decision ==== 6 
+move ==== (0, -1), ship ==== 13, game_round ==== 291, decision ==== 1
+move ==== None, ship ==== 12, game_round ==== 291, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 291, decision ==== 9 
+move ==== (0, 1), ship ==== 17, game_round ==== 291, decision ==== 1
+move ==== 7 
+move ==== (0, 0), ship ==== 14, game_round ==== 292, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 292, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 292, decision ==== 4 
+move ==== (0, -1), ship ==== 12, game_round ==== 292, decision ==== 1
+move ==== None, ship ==== 13, game_round ==== 292, decision ==== 2
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 293, decision ==== 5 
+move ==== (0, -1), ship ==== 15, game_round ==== 293, decision ==== 4 
+move ==== (0, -1), ship ==== 13, game_round ==== 293, decision ==== 1
+move ==== None, ship ==== 12, game_round ==== 293, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 293, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 294, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 294, decision ==== 5 
+move ==== (0, -1), ship ==== 13, game_round ==== 294, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 294, decision ==== 4 
+move ==== (-1, 0), ship ==== 12, game_round ==== 294, decision ==== 1
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 295, decision ==== 5 
+move ==== None, ship ==== 13, game_round ==== 295, decision ==== 2
+move ==== (0, 0), ship ==== 14, game_round ==== 295, decision ==== 9 
+move ==== None, ship ==== 12, game_round ==== 295, decision ==== 2
+move ==== (0, 0), ship ==== 4, game_round ==== 295, decision ==== 9 
+move ==== (-1, 0), ship ==== 18, game_round ==== 295, decision ==== 7 
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 296, decision ==== 5 
+move ==== (-1, 0), ship ==== 18, game_round ==== 296, decision ==== 6 
+move ==== (0, 0), ship ==== 14, game_round ==== 296, decision ==== 8 
+move ==== (0, -1), ship ==== 13, game_round ==== 296, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 296, decision ==== 4 
+move ==== (-1, 0), ship ==== 12, game_round ==== 296, decision ==== 1
+move ==== 6 
+move ==== (0, 0), ship ==== 15, game_round ==== 297, decision ==== 5 
+move ==== (-1, 0), ship ==== 14, game_round ==== 297, decision ==== 4 
+move ==== (0, -1), ship ==== 13, game_round ==== 297, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 297, decision ==== 9 
+move ==== 4 
+move ==== (0, 0), ship ==== 15, game_round ==== 298, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 298, decision ==== 9 
+move ==== (1, 0), ship ==== 13, game_round ==== 298, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 298, decision ==== 8 
+move ==== 4 
+move ==== (0, 0), ship ==== 15, game_round ==== 299, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 299, decision ==== 4 
+move ==== (-1, 0), ship ==== 14, game_round ==== 299, decision ==== 4 
+move ==== (0, 0), ship ==== 13, game_round ==== 299, decision ==== 5 
+move ==== 4 
+move ==== (0, 0), ship ==== 15, game_round ==== 300, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 300, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 300, decision ==== 9 
+move ==== (-1, 0), ship ==== 14, game_round ==== 300, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 300, decision ==== 6 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 301, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 301, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 301, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 301, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 301, decision ==== 8 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 302, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 302, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 302, decision ==== 8 
+move ==== (0, 0), ship ==== 4, game_round ==== 302, decision ==== 9 
+move ==== (-1, 0), ship ==== 14, game_round ==== 302, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 303, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 303, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 303, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 303, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 303, decision ==== 8 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 304, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 304, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 304, decision ==== 8 
+move ==== (-1, 0), ship ==== 19, game_round ==== 304, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 304, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 305, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 305, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 305, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 305, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 305, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 306, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 306, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 306, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 306, decision ==== 7 
+move ==== (0, 0), ship ==== 4, game_round ==== 306, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 307, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 307, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 307, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 307, decision ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 307, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 308, decision ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 308, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 308, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 308, decision ==== 8 
+move ==== (0, 0), ship ==== 4, game_round ==== 308, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 309, decision ==== 8 
+move ==== (-1, 0), ship ==== 13, game_round ==== 309, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 309, decision ==== 8 
+move ==== (-1, 0), ship ==== 19, game_round ==== 309, decision ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 309, decision ==== 4 
+move ==== 5 
+move ==== (0, 1), ship ==== 15, game_round ==== 310, decision ==== 1
+move ==== (0, 0), ship ==== 13, game_round ==== 310, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 310, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 310, decision ==== 8 
+move ==== (0, 0), ship ==== 4, game_round ==== 310, decision ==== 9 
+move ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 311, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 311, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 311, decision ==== 8 
+move ==== (-1, 0), ship ==== 15, game_round ==== 311, decision ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 311, decision ==== 4 
+move ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 312, decision ==== 4 
+move ==== (0, 0), ship ==== 14, game_round ==== 312, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 312, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 312, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 312, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 313, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 313, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 313, decision ==== 5 
+move ==== (0, 1), ship ==== 13, game_round ==== 313, decision ==== 6 
+move ==== (-1, 0), ship ==== 4, game_round ==== 313, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 314, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 314, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 314, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 314, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 314, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 315, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 315, decision ==== 5 
+move ==== (-1, 0), ship ==== 13, game_round ==== 315, decision ==== 5 
+move ==== (0, 1), ship ==== 14, game_round ==== 315, decision ==== 7 
+move ==== (-1, 0), ship ==== 4, game_round ==== 315, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 316, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 316, decision ==== 8 
+move ==== (0, 1), ship ==== 13, game_round ==== 316, decision ==== 4 
+move ==== (0, 1), ship ==== 14, game_round ==== 316, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 316, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 317, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 317, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 317, decision ==== 8 
+move ==== (1, 0), ship ==== 13, game_round ==== 317, decision ==== 4 
+move ==== (-1, 0), ship ==== 4, game_round ==== 317, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 318, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 318, decision ==== 8 
+move ==== (-1, 0), ship ==== 19, game_round ==== 318, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 318, decision ==== 9 
+move ==== (0, 0), ship ==== 13, game_round ==== 318, decision ==== 5 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 319, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 319, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 319, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 319, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 319, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 320, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 320, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 320, decision ==== 8 
+move ==== (-1, 0), ship ==== 15, game_round ==== 320, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 320, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 321, decision ==== 9 
+move ==== (0, 0), ship ==== 13, game_round ==== 321, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 321, decision ==== 8 
+move ==== (-1, 0), ship ==== 15, game_round ==== 321, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 321, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 322, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 322, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 322, decision ==== 4 
+move ==== (0, 1), ship ==== 14, game_round ==== 322, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 322, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 323, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 323, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 323, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 323, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 323, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 324, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 324, decision ==== 8 
+move ==== (0, 1), ship ==== 19, game_round ==== 324, decision ==== 4 
+move ==== (0, 0), ship ==== 15, game_round ==== 324, decision ==== 5 
+move ==== (0, 0), ship ==== 4, game_round ==== 324, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 325, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 325, decision ==== 9 
+move ==== (-1, 0), ship ==== 15, game_round ==== 325, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 325, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 325, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 326, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 326, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 326, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 326, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 326, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 327, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 327, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 327, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 327, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 327, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 328, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 328, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 328, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 328, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 328, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 329, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 329, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 329, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 329, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 329, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 330, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 330, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 330, decision ==== 8 
+move ==== (-1, 0), ship ==== 19, game_round ==== 330, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 330, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 331, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 331, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 331, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 331, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 331, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 332, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 332, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 332, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 332, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 332, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 333, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 333, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 333, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 333, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 333, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 334, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 334, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 334, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 334, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 334, decision ==== 9 
+move ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 335, decision ==== 4 
+move ==== (0, 0), ship ==== 19, game_round ==== 335, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 335, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 335, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 335, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 336, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 336, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 336, decision ==== 5 
+move ==== (0, -1), ship ==== 19, game_round ==== 336, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 336, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 337, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 337, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 337, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 337, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 337, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 338, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 338, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 338, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 338, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 338, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 339, decision ==== 9 
+move ==== (0, 0), ship ==== 13, game_round ==== 339, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 339, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 339, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 339, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 340, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 340, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 340, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 340, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 340, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 341, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 341, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 341, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 341, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 341, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 342, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 342, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 342, decision ==== 8 
+move ==== (-1, 0), ship ==== 19, game_round ==== 342, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 342, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 343, decision ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 343, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 343, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 343, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 343, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 13, game_round ==== 344, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 344, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 344, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 344, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 344, decision ==== 9 
+move ==== 5 
+move ==== (1, 0), ship ==== 13, game_round ==== 345, decision ==== 4 
+move ==== (0, 0), ship ==== 15, game_round ==== 345, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 345, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 345, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 345, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 346, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 346, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 346, decision ==== 5 
+move ==== (0, 1), ship ==== 15, game_round ==== 346, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 346, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 347, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 347, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 347, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 347, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 347, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 348, decision ==== 8 
+move ==== (0, 0), ship ==== 13, game_round ==== 348, decision ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 348, decision ==== 8 
+move ==== (-1, 0), ship ==== 19, game_round ==== 348, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 348, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 349, decision ==== 9 
+move ==== (-1, 0), ship ==== 13, game_round ==== 349, decision ==== 1
+move ==== (0, 0), ship ==== 15, game_round ==== 349, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 349, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 349, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 350, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 350, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 350, decision ==== 6 
+move ==== (-1, 0), ship ==== 13, game_round ==== 350, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 350, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 351, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 351, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 351, decision ==== 8 
+move ==== (-1, 0), ship ==== 13, game_round ==== 351, decision ==== 1
+move ==== (-1, 0), ship ==== 4, game_round ==== 351, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 352, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 352, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 352, decision ==== 4 
+move ==== (0, -1), ship ==== 13, game_round ==== 352, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 352, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 353, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 353, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 353, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 353, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 353, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 354, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 354, decision ==== 8 
+move ==== (0, 1), ship ==== 13, game_round ==== 354, decision ==== 1
+move ==== (0, -1), ship ==== 19, game_round ==== 354, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 354, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 355, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 355, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 355, decision ==== 2
+move ==== (0, 0), ship ==== 19, game_round ==== 355, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 355, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 356, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 356, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 356, decision ==== 6 
+move ==== (0, -1), ship ==== 13, game_round ==== 356, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 356, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 357, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 357, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 357, decision ==== 2
+move ==== (0, 0), ship ==== 14, game_round ==== 357, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 357, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 358, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 358, decision ==== 8 
+move ==== (0, 1), ship ==== 13, game_round ==== 358, decision ==== 1
+move ==== (0, 1), ship ==== 15, game_round ==== 358, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 358, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 359, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 359, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 359, decision ==== 2
+move ==== (0, 0), ship ==== 15, game_round ==== 359, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 359, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 360, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 360, decision ==== 8 
+move ==== (0, 1), ship ==== 13, game_round ==== 360, decision ==== 1
+move ==== (0, -1), ship ==== 19, game_round ==== 360, decision ==== 6 
+move ==== (0, 0), ship ==== 4, game_round ==== 360, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 361, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 361, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 361, decision ==== 2
+move ==== (0, 0), ship ==== 19, game_round ==== 361, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 361, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 362, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 362, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 362, decision ==== 6 
+move ==== (-1, 0), ship ==== 13, game_round ==== 362, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 362, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 363, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 363, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 363, decision ==== 2
+move ==== (0, 0), ship ==== 14, game_round ==== 363, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 363, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 364, decision ==== 8 
+move ==== (0, 0), ship ==== 14, game_round ==== 364, decision ==== 8 
+move ==== (0, 1), ship ==== 15, game_round ==== 364, decision ==== 4 
+move ==== (0, -1), ship ==== 13, game_round ==== 364, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 364, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 365, decision ==== 9 
+move ==== (0, 0), ship ==== 14, game_round ==== 365, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 365, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 365, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 365, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 366, decision ==== 8 
+move ==== (0, 0), ship ==== 15, game_round ==== 366, decision ==== 8 
+move ==== (0, -1), ship ==== 19, game_round ==== 366, decision ==== 6 
+move ==== (-1, 0), ship ==== 13, game_round ==== 366, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 366, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 14, game_round ==== 367, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 367, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 367, decision ==== 8 
+move ==== None, ship ==== 13, game_round ==== 367, decision ==== 2
+move ==== (-1, 0), ship ==== 4, game_round ==== 367, decision ==== 4 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 368, decision ==== 8 
+move ==== (0, 0), ship ==== 19, game_round ==== 368, decision ==== 8 
+move ==== (0, 1), ship ==== 14, game_round ==== 368, decision ==== 6 
+move ==== (0, -1), ship ==== 13, game_round ==== 368, decision ==== 1
+move ==== (0, 0), ship ==== 4, game_round ==== 368, decision ==== 9 
+move ==== 5 
+move ==== (0, 0), ship ==== 15, game_round ==== 369, decision ==== 9 
+move ==== (0, 0), ship ==== 19, game_round ==== 369, decision ==== 8 
+move ==== (-1, 0), ship ==== 4, game_round ==== 369, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 19, game_round ==== 370, decision ==== 8 
+move ==== (1, 0), ship ==== 15, game_round ==== 370, decision ==== 4 
+move ==== (0, 0), ship ==== 4, game_round ==== 370, decision ==== 9 
+move ==== 3 
+move ==== (0, 0), ship ==== 19, game_round ==== 371, decision ==== 9 
+move ==== (0, 0), ship ==== 15, game_round ==== 371, decision ==== 5 
+move ==== (-1, 0), ship ==== 4, game_round ==== 371, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 372, decision ==== 5 
+move ==== (-1, 0), ship ==== 19, game_round ==== 372, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 372, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 373, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 373, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 373, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 374, decision ==== 5 
+move ==== (0, 1), ship ==== 19, game_round ==== 374, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 374, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 375, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 375, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 375, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 376, decision ==== 5 
+move ==== (-1, 0), ship ==== 19, game_round ==== 376, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 376, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 377, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 377, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 377, decision ==== 4 
+move ==== 3 
+move ==== (-1, 0), ship ==== 15, game_round ==== 378, decision ==== 5 
+move ==== (-1, 0), ship ==== 19, game_round ==== 378, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 378, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 379, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 379, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 379, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 380, decision ==== 5 
+move ==== (-1, 0), ship ==== 19, game_round ==== 380, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 380, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 381, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 381, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 381, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 382, decision ==== 5 
+move ==== (-1, 0), ship ==== 19, game_round ==== 382, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 382, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 383, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 383, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 383, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 384, decision ==== 5 
+move ==== (-1, 0), ship ==== 19, game_round ==== 384, decision ==== 4 
+move ==== (1, 0), ship ==== 4, game_round ==== 384, decision ==== 4 
+move ==== 3 
+move ==== (0, 0), ship ==== 15, game_round ==== 385, decision ==== 5 
+move ==== (0, 0), ship ==== 19, game_round ==== 385, decision ==== 9 
+move ==== (-1, 0), ship ==== 4, game_round ==== 385, decision ==== 4 
+move ==== 3 

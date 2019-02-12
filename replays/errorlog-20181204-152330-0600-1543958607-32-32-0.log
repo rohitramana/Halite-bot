@@ -1,0 +1,21 @@
+
+Turn 1
+================================================================
+error: failed to decode bot message: "F" (at position 3)
+Last input received was:
+  File "MyBot.py", line 3, in <module>
+    import SVMBot
+  File "D:\CNN project\SVM\SVMBot.py", line 23, in <module>
+    MODEL = load_model("halite_bot_teccles_final_without_0.h5")
+  File "C:\Anaconda\lib\site-packages\keras\engine\saving.py", line 417, in load_model
+    f = h5dict(filepath, 'r')
+  File "C:\Anaconda\lib\site-packages\keras\utils\io_utils.py", line 186, in __init__
+    self.data = h5py.File(path, mode=mode)
+  File "C:\Anaconda\lib\site-packages\h5py\_hl\files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "C:\Anaconda\lib\site-packages\h5py\_hl\files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py\_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py\_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py\h5f.pyx", line 78, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = 'halite_bot_teccles_final_without_0.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_

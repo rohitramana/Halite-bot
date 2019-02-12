@@ -1,0 +1,73 @@
+
+Turn 5
+================================================================
+warning: spawn on cell (23, 16) collided with owned entity 1 on that cell
+At command 3 of 3:
+    1   m 1 w
+    2   m 3 o
+>>> 3   g
+
+
+Turn 7
+================================================================
+warning: owned entities 5, 3 collided on cell (23, 17) as the result of moves on this turn
+At command 2 of 2:
+    1   m 3 o
+>>> 2   m 5 s
+
+
+Turn 15
+================================================================
+warning: entity 7 was directed to use 9 halite to move west, but only 1 halite was available
+At command 1 of 1:
+>>> 1   m 7 w
+
+
+Turn 38
+================================================================
+warning: entity 7 was directed to use 8 halite to move east, but only 0 halite was available
+At command 1 of 1:
+>>> 1   m 7 e
+
+
+Turn 43
+================================================================
+warning: entity 7 was directed to use 5 halite to move west, but only 1 halite was available
+At command 1 of 1:
+>>> 1   m 7 w
+
+
+Turn 54
+================================================================
+warning: entity 7 was directed to use 2 halite to move north, but only 1 halite was available
+At command 1 of 1:
+>>> 1   m 7 n
+
+
+Turn 56
+================================================================
+warning: entity 7 was directed to use 7 halite to move south, but only 5 halite was available
+At command 1 of 1:
+>>> 1   m 7 s
+
+
+Turn 61
+================================================================
+warning: entity 7 was directed to use 5 halite to move east, but only 1 halite was available
+At command 1 of 1:
+>>> 1   m 7 e
+
+
+Turn 66
+================================================================
+warning: entity 7 was directed to use 5 halite to move west, but only 0 halite was available
+At command 1 of 1:
+>>> 1   m 7 w
+
+
+Turn 72
+================================================================
+warning: entity 7 was directed to use 2 halite to move west, but only 1 halite was available
+At command 1 of 1:
+>>> 1   m 7 w
+

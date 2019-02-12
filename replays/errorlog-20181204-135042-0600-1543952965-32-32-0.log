@@ -1,0 +1,31 @@
+
+Turn 80
+================================================================
+warning: entity 8 was directed to use 6 halite to move north, but only 0 halite was available
+At command 3 of 3:
+    1   m 7 n
+    2   m 4 n
+>>> 3   m 8 n
+
+
+Turn 83
+================================================================
+warning: entity 4 was directed to use 27 halite to move north, but only 0 halite was available
+At command 1 of 1:
+>>> 1   m 4 n
+
+
+Turn 116
+================================================================
+warning: owned entities 6, 10 collided on cell (8, 15) as the result of moves on this turn
+At command 4 of 5:
+    2   m 12 n
+    3   m 4 e
+>>> 4   m 6 n
+    5   m 10 e
+
+Other commands that placed an entity on this cell:
+    3   m 4 e
+    4   m 6 n
+>>> 5   m 10 e
+

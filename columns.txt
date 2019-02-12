@@ -1,0 +1,41 @@
+for every ship, in all four directions
+
+percent_done - percent of game time thats completed
+1 feature
+==========================================================
+0 no collision, 1 - collision 
+
+
+	my other ships collision possibility - West
+	my other ships collision possibility - North
+	my other ships collision possibility - East
+	my other ships collision possibility - South
+	other ships collision possibility - West
+	other ships collision possibility - North
+	other ships collision possibility - East
+	other ships collision possibility - South
+	my drop offs collision possibility - West
+	my drop offs collision possibility - North
+	my drop offs collision possibility - East
+	my drop offs collision possibility - South
+	others drop offs collision possibility - West
+	others drop offs collision possibility - North
+	others drop offs collision possibility - East
+	others drop offs collision possibility - South
+16 feature
+============================================================
+directions to highest halite cells at certain distances(1-12)
+4(direction vector) * 12 = 48 features
+=============================================================
+directions to closest drop off
+4(direction vector) - 4 features
+=============================================================
+halite surrounding the ship /1000
+4(in each unit direction) - 4 features
+=============================================================
+halite indication whether its <= 0 , 50 , 100 , 150
+4 features
+=============================================================
+current position halite/1000 - 1 feature
+=============================================================
+total = 78 features

@@ -1,0 +1,127 @@
+
+Turn 3
+================================================================
+warning: entity 0 was directed to use 1 halite to move west, but only 0 halite was available
+At command 1 of 2:
+>>> 1   m 0 w
+    2   g
+
+
+Turn 6
+================================================================
+warning: entity 1 was directed to use 1 halite to move south, but only 0 halite was available
+At command 2 of 3:
+    1   m 0 s
+>>> 2   m 1 s
+    3   g
+
+warning: owned entities 0, 1 collided on cell (22, 17) as the result of moves on this turn
+At command 1 of 3:
+>>> 1   m 0 s
+    2   m 1 s
+    3   g
+
+
+Turn 9
+================================================================
+warning: entity 2 was directed to use 1 halite to move south, but only 0 halite was available
+At command 1 of 2:
+>>> 1   m 2 s
+    2   m 3 n
+
+
+Turn 10
+================================================================
+warning: entity 3 was directed to use 2 halite to move south, but only 0 halite was available
+At command 2 of 3:
+    1   m 2 s
+>>> 2   m 3 s
+    3   g
+
+
+Turn 11
+================================================================
+warning: entity 2 was directed to use 6 halite to move west, but only 3 halite was available
+At command 2 of 3:
+    1   m 3 e
+>>> 2   m 2 w
+    3   m 5 w
+
+
+Turn 13
+================================================================
+warning: entity 3 was directed to use 6 halite to move north, but only 0 halite was available
+At command 1 of 3:
+>>> 1   m 3 n
+    2   m 2 e
+    3   m 5 s
+
+warning: entity 5 was directed to use 1 halite to move south, but only 0 halite was available
+At command 3 of 3:
+    1   m 3 n
+    2   m 2 e
+>>> 3   m 5 s
+
+
+Turn 15
+================================================================
+warning: entity 5 was directed to use 4 halite to move west, but only 3 halite was available
+At command 1 of 3:
+>>> 1   m 5 w
+    2   m 3 e
+    3   m 2 o
+
+
+Turn 18
+================================================================
+warning: entity 3 was directed to use 5 halite to move west, but only 2 halite was available
+At command 3 of 3:
+    1   m 2 s
+    2   m 5 s
+>>> 3   m 3 w
+
+
+Turn 20
+================================================================
+warning: entity 5 was directed to use 5 halite to move east, but only 0 halite was available
+At command 3 of 3:
+    1   m 2 e
+    2   m 3 n
+>>> 3   m 5 e
+
+
+Turn 21
+================================================================
+warning: entity 3 was directed to use 2 halite to move west, but only 0 halite was available
+At command 2 of 3:
+    1   m 5 e
+>>> 2   m 3 w
+    3   m 2 n
+
+
+Turn 23
+================================================================
+warning: entity 5 was directed to use 9 halite to move east, but only 5 halite was available
+At command 2 of 3:
+    1   m 3 s
+>>> 2   m 5 e
+    3   m 2 e
+
+
+Turn 24
+================================================================
+warning: entity 3 was directed to use 3 halite to move south, but only 0 halite was available
+At command 2 of 3:
+    1   m 5 e
+>>> 2   m 3 s
+    3   m 2 o
+
+
+Turn 351
+================================================================
+warning: owned entities 2, 5 collided on cell (30, 24) as the result of moves on this turn
+At command 1 of 3:
+>>> 1   m 2 s
+    2   m 3 o
+    3   m 5 o
+

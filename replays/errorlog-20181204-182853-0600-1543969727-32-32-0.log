@@ -1,0 +1,12 @@
+
+Turn 2
+================================================================
+error: failed to decode bot message: "T" (at position 1)
+Last input received was:
+Traceback (most recent call last):
+  File "MyBot.py", line 14, in <module>
+    bot.run()
+  File "D:\CNN project\SVM\SVMBot.py", line 70, in run
+    if not game_map[di].is_occupied():
+TypeError: 'bool' object is not callable
+
